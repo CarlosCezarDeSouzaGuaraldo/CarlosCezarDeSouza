@@ -1,16 +1,20 @@
-### Hi there 👋
+# Carlos Cezar
 
-<!--
-**CarlosCezarDeSouza/CarlosCezarDeSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá, muito prazer!
 
-Here are some ideas to get you started:
+Estou iniciando no universo da programação por agora e já gostei de algumas 
+tecnologias logo de cara como JavaScript e ReactJS. Gosto muito da parte 
+estética da programação e pretendo me especializar nessas ferramentas e 
+atuar em projetos como front-end. :computer:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/> :email: &nbsp; ->Contato:  E-mail: carloscezardesouza@outlook.com
+<br/> :link: &nbsp; ->LinkedIn: https://www.linkedin.com/in/carloscezardesouza/
+<br/> :telephone_receiver: &nbsp; ->Telefone: (16) 99244-1395
+            
+<br/> &nbsp; ->Trabalho: Atualmente estou em uma empresa de gestão de e-commerce 
+chamada **Origem Digital**.
+
+->Estudos: Estou cursando o 2º Semestre de Análise e Desenvolvimento de Sistemas na FATEC.
+
+->Pretendo colaborar com a construção de um mundo digital que é cada vez mais presente na 
+vida de todos, fazendo parte da construção de um mundo melhor através da tecnologia.

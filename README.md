@@ -7,7 +7,7 @@ tecnologias logo de cara como JavaScript e ReactJS. Gosto muito da parte
 estética da programação e pretendo me especializar nessas ferramentas e 
 atuar em projetos como front-end. :computer:
 
-<br/> :email: &nbsp; ->Contato:  E-mail: carloscezardesouza@outlook.com
+<br/> :email: &nbsp; ->E-mail: carloscezardesouza@outlook.com
 <br/> :link: &nbsp; ->LinkedIn: https://www.linkedin.com/in/carloscezardesouza/
 <br/> :telephone_receiver: &nbsp; ->Telefone: (16) 99244-1395
             

@@ -17,4 +17,4 @@ chamada **Origem Digital**.
 <br/> &nbsp; ->Estudos: Estou cursando o 2º Semestre de Análise e Desenvolvimento de Sistemas na FATEC.
 
 <br/> &nbsp; ->Pretendo colaborar com a construção de um mundo digital que é cada vez mais presente na 
-vida de todos, fazendo parte da construção de um mundo melhor através da tecnologia.
+vida de todos, atuando através da tecnologia.

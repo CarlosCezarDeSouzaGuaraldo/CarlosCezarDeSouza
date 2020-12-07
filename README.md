@@ -11,8 +11,8 @@ atuar em projetos como front-end. :computer:
 <br/> :link: &nbsp; ->LinkedIn: https://www.linkedin.com/in/carloscezardesouza/
 <br/> :telephone_receiver: &nbsp; ->Telefone: (16) 99244-1395
             
-<br/> &nbsp; ->Trabalho: Atualmente estou em uma empresa de gestão de e-commerce 
-chamada **Origem Digital**.
+<br/> &nbsp; ->Trabalho: Atualmente estou em uma empresa de desenvolvimento de e-commerce 
+chamada **PG2K**.
 
 <br/> &nbsp; ->Estudos: Estou cursando o 2º Semestre de Análise e Desenvolvimento de Sistemas na FATEC.
 

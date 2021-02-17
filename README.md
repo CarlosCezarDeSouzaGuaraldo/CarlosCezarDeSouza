@@ -14,7 +14,7 @@ atuar em projetos como front-end. :computer:
 <br/> &nbsp; ->Trabalho: Atualmente estou em uma empresa de desenvolvimento de e-commerce 
 chamada **PG2K**.
 
-<br/> &nbsp; ->Estudos: Estou cursando o 2º Semestre de Análise e Desenvolvimento de Sistemas na FATEC.
+<br/> &nbsp; ->Estudos: Estou cursando o 3º Semestre de Análise e Desenvolvimento de Sistemas na FATEC.
 
 <br/> &nbsp; ->Pretendo colaborar com a construção de um mundo digital que é cada vez mais presente na 
 vida de todos, atuando através da tecnologia.

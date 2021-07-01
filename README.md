@@ -11,8 +11,7 @@ atuar em projetos como front-end. :computer:
 <br/> :link: &nbsp; ->LinkedIn: https://www.linkedin.com/in/carloscezardesouza/
 <br/> :telephone_receiver: &nbsp; ->Telefone: (16) 99244-1395
             
-<br/> &nbsp; ->Trabalho: Atualmente estou em uma empresa de desenvolvimento de e-commerce 
-chamada **(ꓭ/ Codebit**.
+<br/> &nbsp; ->Trabalho: Atualmente estou em uma Software House chamada **(ꓭ/ Codebit**.
 
 <br/> &nbsp; ->Estudos: Estou cursando o 4º Semestre de Análise e Desenvolvimento de Sistemas na FATEC-Franca.
 

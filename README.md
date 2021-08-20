@@ -13,7 +13,7 @@
  <br/> &nbsp; -> **Job**: Currently I'm working at a software house called <a href="https://codebit.com.br/" target="_blank"> **(ꓭ/ Codebit** </a>.
  <br/> &nbsp; -> **Studies**: I'm studying the 4th Semester of Systems Analysis and Development at FATEC College in Franca-SP.
  <br/> &nbsp; -> I'm participating in a build of the digital world that is more present in our lifes through technology!
-&lt;/n&gt; 
+
  ## Olá, muito prazer!
  Sou desenvolvedor web em NodeJS. Javascript foi a primeira linguagem
  de programação que eu aprendi e eu gostei muito dessa linguagem, porque dá

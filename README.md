@@ -1,7 +1,7 @@
 # Carlos Cezar
 
  ## Hi there, nice to meet you!
- I'm a full stack developer in NodeJS. Javascript was the first programming
+ I'm a web developer in NodeJS. Javascript was the first programming
  language that I learned and I really like this language, because you can
  do a lot of things with it! :computer:
 
@@ -15,7 +15,7 @@
  <br/> &nbsp; -> I'm participating in a build of the digital world that is more present in our lifes through technology!
 &lt;/n&gt; 
  ## Olá, muito prazer!
- Sou desenvolvedor full stack em NodeJS. Javascript foi a primeira linguagem
+ Sou desenvolvedor web em NodeJS. Javascript foi a primeira linguagem
  de programação que eu aprendi e eu gostei muito dessa linguagem, porque dá
  para fazer muitas coisas com ela! :computer:
 

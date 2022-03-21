@@ -20,6 +20,8 @@
  Sou desenvolvedor web em NodeJS. Javascript foi a primeira linguagem
  de programação que eu aprendi e eu gostei muito dessa linguagem, porque dá
  para fazer muitas coisas com ela! :computer:
+ 
+ Atualmente estou aprendendo GoLang!:rocket:
 
  Contato:
  <br/> :email: &nbsp; ->E-mail: carloscezardesouza@outlook.com

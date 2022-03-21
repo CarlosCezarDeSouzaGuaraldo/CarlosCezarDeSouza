@@ -1,9 +1,11 @@
-# Carlos Cezar
+# Carlos Cezar De Souza Guaraldo
 
  ## Hi there, nice to meet you!
  I'm a web developer in NodeJS. Javascript was the first programming
  language that I learned and I really like this language, because you can
  do a lot of things with it! :computer:
+ 
+ Currently I'm learning GoLang!:rocket:
 
  Contact:
  <br/> :email: &nbsp; ->E-mail: carloscezardesouza@outlook.com

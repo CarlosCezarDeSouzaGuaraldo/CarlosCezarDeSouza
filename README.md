@@ -5,7 +5,7 @@
  language that I learned and I really like this language, because you can
  do a lot of things with it! :computer:
  
- Currently I'm learning GoLang!:rocket:
+ Currently I'm learning GoLang! :rocket:<img width="12px" height="17px" src="https://www.clipartmax.com/png/full/163-1635688_learn-golang-in-your-own-sandbox-golang-gopher.png"/>
 
  Contact:
  <br/> :email: &nbsp; ->E-mail: carloscezardesouza@outlook.com

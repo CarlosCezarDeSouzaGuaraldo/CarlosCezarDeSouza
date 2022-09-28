@@ -1,9 +1,7 @@
 # Carlos Cezar De Souza Guaraldo
 
  ## Hi there, nice to meet you!
- I'm a web developer in NodeJS. Javascript was the first programming
- language that I learned and I really like this language, because you can
- do a lot of things with it! :computer:
+ I'm a Fullstack Developer that work with NodeJS, Java and ReactJS programming languages and I work with MySql, MariaDb, SqlServer and Postgres. About me? I want to help the people with the technology! :computer:
  
  Currently I'm learning GoLang! :rocket:<img width="12px" height="17px" src="https://www.clipartmax.com/png/full/163-1635688_learn-golang-in-your-own-sandbox-golang-gopher.png"/>
 
@@ -17,9 +15,7 @@
  <br/> &nbsp; -> I'm participating in a build of the digital world that is more present in our lifes through technology!
 
  ## Olá, muito prazer!
- Sou desenvolvedor web em NodeJS. Javascript foi a primeira linguagem
- de programação que eu aprendi e eu gostei muito dessa linguagem, porque dá
- para fazer muitas coisas com ela! :computer:
+ Sou desenvolvedor Fullstack que trabalha com as linguagens de programação NodeJS, Java e ReactJS e trabalho com Mysql, MariaDb, SqlServer e Postgres. Sobre mim? I want to help the people with the technology! :computer:
  
  Atualmente estou aprendendo GoLang!:rocket:
 

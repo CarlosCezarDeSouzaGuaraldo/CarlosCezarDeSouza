@@ -1,7 +1,7 @@
 # Carlos Cezar De Souza Guaraldo
 
  ## Hi there, nice to meet you!
- I'm a Fullstack Developer that work with NodeJS, Java and ReactJS programming languages and I work with MySql, MariaDb, SqlServer and Postgres. About me? I want to help the people with the technology! :computer:
+ I'm a Fullstack Developer that work with some technologies such as .Net, ReactJS, NodeJS, GO, Java Spring Boot and PHP Laravel. About me? I want to help the people with the technology! :computer:
  
  Currently I'm learning .Net and living in New Zealand! :rocket::kiwi_fruit:
 

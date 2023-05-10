@@ -12,6 +12,7 @@ Technologies:
 <br/>✔ Java Spring Boot
 <br/>✔ PHP Laravel
 <br/>✔ Golang
+<br/>✔ C# .Net
 <br/>✔ Docker
 <br/>✔ MySQL
 <br/>✔ PostgreSQL

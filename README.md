@@ -1,6 +1,6 @@
 # Hello! ✌️
 
-I am Carlos Guaraldo, a passionate 23-year-old Full Stack Software Developer with three years of diverse experience in the IT industry. Throughout my career, I have successfully contributed to the design and development of application architectures, effectively onboarded trainees and beginners, implemented innovative system features, resolved errors, and produced comprehensive documentation for various applications.
+I am Carlos Guaraldo, a passionate 23-year-old Full Stack Software Developer with four years of diverse experience in the IT industry. Throughout my career, I have successfully contributed to the design and development of application architectures, effectively onboarded trainees and beginners, implemented innovative system features, resolved errors, and produced comprehensive documentation for various applications.
 
 As a proactive team player, I have consistently ensured client expectations were met by conducting thorough preliminary homologations before submitting projects for approval. My robust technical skills encompass Backend technologies such as NodeJS, GO, Java Spring Boot, and Java GWT. In addition, I am well- versed in Frontend development with proficiency in ReactJS, PHP Laravel, and JavaScript. My experience also extends to working with an array of databases, including MySQL, PostgreSQL, SQLServer, and MariaDB, as well as leveraging Docker for efficient deployment and management of applications.
 

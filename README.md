@@ -1,4 +1,4 @@
-# Hi
+# Hi!
 
 I'm a Software Engineer focused on C# .Net and ReactJS. With an international background and experience across diverse IT environments.
 My skills make me a strong team member. I've a clear communication, a leadership attitude, and the ability to achieve goals together. My priority is to deliver solutions that are technically robust, simple, clear, and straight to the point.
